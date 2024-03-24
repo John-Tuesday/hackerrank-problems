@@ -1,7 +1,10 @@
 # John and Fences
+
 **difficulty** medium
+
 **solution language** Haskell
-(View on HackerRank)[https://www.hackerrank.com/challenges/john-and-fences/problem]
+
+[View on HackerRank](https://www.hackerrank.com/challenges/john-and-fences/problem)
 
 ## Problem (brief)
 There are N fences. Though the contiguous fences have the constant width of 1 unit but their height varies. Height of these fences is represented by array H = [h1, h2... hN].
